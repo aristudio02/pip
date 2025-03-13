@@ -1,1 +1,13 @@
-# pip
+telethon
+pyaes
+async_generator
+colorama
+requests
+bs4
+beautifulsoup4
+certifi
+chardet
+idna
+rsa
+func_timeout
+upgrade pip
